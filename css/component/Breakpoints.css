@@ -1,0 +1,194 @@
+@media (max-width: 1240px) {
+  .w-phone {
+    width: 320px !important;
+    height: 84vh !important;
+  }
+  .phone-pic {
+    left: 10vw !important;
+  }
+  .download-side {
+    top: 20px !important;
+    height: 53vh !important;
+    width: 515px !important;
+  }
+}
+@media (max-width: 1025px) {
+  .phone-pic {
+    display: none !important;
+  }
+
+  .dir-rtl {
+    direction: rtl !important;
+  }
+}
+@media (max-width: 952px) {
+  .btn-sec {
+    display: none !important;
+  }
+}
+@media (max-width: 803px) {
+  .toggle-span {
+    display: block !important;
+  }
+  .menu-nav-collapse {
+    width: 100% !important;
+    top: 69px !important;
+    left: 0 !important;
+    right: 0 !important;
+    background-color: #fff !important;
+    position: absolute !important;
+    flex-direction: column !important;
+    align-items: flex-end !important;
+    padding-right: 25px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  .display-none {
+    display: none !important;
+  }
+  .banner-ad {
+    flex-direction: column-reverse !important;
+  }
+  .banner-ad p {
+    font-size: 14px !important;
+  }
+  .ad {
+    padding: 0 10px !important;
+  }
+  .picture-sec {
+    height: 500px !important;
+    background-image: url(../../images/banner-mobile.webp) !important;
+  }
+  .download-side {
+    position: absolute !important;
+    transform: translate(50%, 5%) !important;
+    right: 50% !important;
+    width: 270px !important;
+    height: 410px !important;
+  }
+  .head h1 {
+    font-size: 25px !important;
+  }
+  .head p {
+    font-size: 16px !important;
+  }
+  .img-side {
+    display: none !important;
+  }
+  .texts h3 {
+    font-size: 16px !important;
+  }
+  .texts p {
+    font-size: 14px !important;
+  }
+  .tabs-head {
+    width: 100% !important;
+    overflow-x: scroll !important;
+    gap: 0.9rem !important;
+  }
+  .tabs-head a {
+    min-width: 90px !important;
+  }
+  .tabs-head a p {
+    font-size: 14px !important;
+  }
+  .car-size {
+    min-width: 80px !important;
+  }
+  .mac-description {
+    width: 100% !important;
+  }
+  .mac-description h2 {
+    font-size: 22px !important;
+  }
+  .mac-description p {
+    font-size: 14px !important;
+  }
+  .mac-description a {
+    font-size: 14px !important;
+  }
+  .imac {
+    flex-direction: column-reverse !important;
+  }
+  .works {
+    flex-direction: column;
+    gap: 30px !important;
+  }
+  .mac-size {
+    width: 90vw !important;
+  }
+  .pr {
+    padding-right: 80px !important;
+  }
+  .transparent-side {
+    flex-direction: column !important;
+    height: 350px !important;
+    padding: 30px 0 !important;
+  }
+  .vertical-divider {
+    display: none !important;
+  }
+  .tapsi-driver {
+    flex-direction: column !important;
+    gap: 50px !important;
+  }
+  .driver-img {
+    width: 100% !important;
+  }
+  .driver-side-description h2 {
+    font-size: 22px !important;
+  }
+  .driver-side-description p {
+    font-size: 14px !important;
+    margin-top: 20px !important;
+  }
+  .driver-side-description h4 {
+    font-size: 16px !important;
+  }
+  .blue-btns {
+    width: 100% !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 15px !important;
+  }
+  .card-side{
+    flex-direction: column !important;
+  }
+  .cards{
+    width: 100% !important;
+  }
+  .cards h4{
+    font-size: 16px !important;
+  }
+  .card-p{
+    font-size: 14px !important;
+    overflow: visible !important;
+    display: block !important;
+  }
+  .tapsi-iran{
+    display: none !important;
+  }
+  .w50{
+    width: 100% !important;
+  }
+  .foot-head{
+    flex-direction: column !important;
+    gap: 30px !important;
+  }
+  .w-logo{
+    width: 100% !important;
+  }
+  .dis-none{
+    display: none !important;
+  }
+  .dis-block{
+    display: block !important;
+  }
+  .social{
+    justify-content: space-between !important;
+  }
+  .space-between{
+    justify-content: space-between !important;
+  }
+}

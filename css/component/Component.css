@@ -1,0 +1,118 @@
+.p-screen {
+  padding: 0 10% !important;
+}
+.orang-color {
+  background-color: #ff5722 !important;
+}
+.color-1 {
+  color: #ff5722 !important;
+}
+.blue-color {
+  background-color: #2266f4 !important;
+}
+.text-blue{
+  color: #2266f4 !important;
+}
+.bg-foot {
+  background-color: #000000 !important;
+}
+.bg-nav {
+  background-color: #f8f8f8 !important;
+}
+.fs-15px {
+  font-size: 15px !important;
+}
+.z-1000 {
+  z-index: 1000 !important;
+}
+.link-nav {
+  transition: 0.3s !important;
+}
+.link-nav:hover {
+  color: #ff5722 !important;
+}
+.btn-orang:hover {
+  transform: scale(0.97) !important;
+}
+.rotate45 {
+  transform: rotateZ(-45deg);
+  top: 10px !important;
+}
+.rotate-45 {
+  transform: rotateZ(45deg);
+  bottom: 10px !important;
+}
+.mt1 {
+  margin-top: 34px !important;
+}
+.border-btn {
+  border: 2px solid white !important;
+}
+.p4 {
+  padding: 0 35px !important;
+}
+.w-btn {
+  padding-top: 10px !important;
+  width: 215px !important;
+  height: 55px !important;
+}
+.bg-trans {
+  background-color: rgba(23, 26, 60, 0.5) !important;
+}
+.border-service {
+  border-bottom: 1px solid #ddd !important;
+}
+.car-size {
+  width: 8vw !important;
+  opacity: 0.35;
+}
+.active img {
+  opacity: 1 !important;
+}
+.pane-img {
+  width: 35vw !important;
+}
+.pb {
+  padding-bottom: 100px !important;
+}
+.works {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.mac-size {
+  width: 35vw !important;
+}
+.mac-description {
+  width: 49% !important;
+}
+.text-hide {
+  display: none;
+  text-align: center !important;
+}
+.vertical-divider {
+  width: 2px;
+  height: 30%;
+  background-color: #ffffff !important;
+}
+.side-hover {
+  width: 50% !important;
+}
+.btns:hover{
+  filter: opacity(90%) !important;
+}
+.fs-19px{
+  font-size: 19px !important;
+}
+.min-wid{
+  min-width: 235px !important;
+}
+.w50{
+  width: 55% !important;
+}
+.fs-13px{
+  font-size: 13px !important;
+}
+.hover-red:hover{
+    color: #c60f00 !important;
+}
